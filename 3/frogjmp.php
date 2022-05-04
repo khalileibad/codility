@@ -15,8 +15,6 @@
 		}
 		return $a;
 	}
-
-	
 	echo solution(10,85,30);
 
 ?>
